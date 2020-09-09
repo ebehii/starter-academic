@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ebehii.github.io/sitemap.xml
