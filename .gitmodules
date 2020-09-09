@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ebehii/ebehii.github.io.git
+	branch = master
