@@ -71,7 +71,7 @@ social:
 #- Visitors
 ---
 
-Ebehi Iyoha is a PhD candidate in economics at Vanderbilt University. 
+I am a PhD candidate in economics at Vanderbilt University. 
 I study inter-firm networks and their impact on economic growth through firm productivity and international trade. 
 
 Fields of Specialization: Industrial Organization, International Trade, Networks
