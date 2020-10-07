@@ -3,7 +3,7 @@ title: "Estimating Productivity in the Presence of Spillovers:
 Firm-level Evidence from the US Production Network [JMP]"
 authors:
 - admin
-date: "2020-09-09T00:00:00Z"
+date: "2020-10-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

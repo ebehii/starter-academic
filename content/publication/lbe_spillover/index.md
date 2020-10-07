@@ -2,11 +2,11 @@
 title: "Spillovers from Exporters and Multinationals through the Network of US Firms"
 authors:
 - admin
-date: "2018-12-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12-31T00:00:00Z"
+publishDate: "2018-10-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
