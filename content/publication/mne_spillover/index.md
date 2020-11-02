@@ -1,5 +1,5 @@
 ---
-title: "Home-Country Eects of US Multinational Activity through Vertical and Horizontal Spillovers"
+title: "Home-Country Effects of US Multinational Activity through Vertical and Horizontal Spillovers"
 authors:
 - admin
 date: "2020-10-01T00:00:00Z"
