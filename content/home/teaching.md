@@ -16,8 +16,8 @@ subtitle = ""
 Strategic Analysis, *[Summer 2019](files/2019U_ECON2160_01_Instructor_Eval.pdf)*  
   
 **Teaching Assistant, Vanderbilt University**  
-Principles of Macroeconomics,   *[Spring 2020](2020S_ECON1010_01_02_TA_Eval.pdf)*  
-Principles of Microeconomics,   *[Fall 2019](files/2019F_ECON1020_01_TA_Eval.pdf), [Spring 2020](2020S_ECON1020_01_02_TA_Eval.pdf)*  
+Principles of Macroeconomics,   *[Spring 2020](files/2020S_ECON1010_01_02_TA_Eval.pdf)*  
+Principles of Microeconomics,   *[Fall 2019](files/2019F_ECON1020_01_TA_Eval.pdf), [Spring 2020](files/2020S_ECON1020_01_02_TA_Eval.pdf)*  
 Intermediate Macroeconomic Theory,   *[Fall 2018](files/2018F_ECON3020_01_TA_Eval.pdf)*  
 Field Experience in Economic Development,   *[Summer 2018](files/2018U_ECON7930_01_TA_Eval.pdf), [Spring 2019](files/2019S_ECON7930_01_TA_Eval.pdf)*  
 Project Evaluation,   *[Spring 2018](files/2018S_ECON7100_01_TA_Eval.pdf)*    
