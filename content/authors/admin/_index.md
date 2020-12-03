@@ -81,6 +81,6 @@ I am on the 2020-2021 job market and will be available for interviews.
 
 
        
-Fields of Specialization: Industrial Organization, International Trade, Networks
+Fields of Specialization: Industrial Organization, International Trade, Applied Econometrics
 
 
