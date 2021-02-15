@@ -74,8 +74,6 @@ social:
 I am a PhD candidate in economics at Vanderbilt University. 
 I study inter-firm networks and their impact on economic growth through firm productivity and international trade. 
 
-I am on the 2020-2021 job market and will be available for interviews.
-
 [Job Market Paper](/files/Iyoha_JMP_WP_latest.pdf)    
 
 
