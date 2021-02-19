@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: "This paper assesses the impact of the US-China trade war on multi-country importer-exporter networks in Latin America. We construct a novel dataset by matching transaction-level customs records from the *Import Genius* database on Mexico, Peru, Colombia and Chile from 2015 to mid-2020, which lends itself to new insights about third-country effects. Using information on the trading patterns of a firm's first- and second-order connections, we develop link-specific measures of direct and indirect exposure to the US-China trade war. We then quantify the degree to which upstream and downstream trade shocks affect the intensive and extensive margins of trade along the supply chain."
 
 # Summary. An optional shortened abstract.
 summary: 
