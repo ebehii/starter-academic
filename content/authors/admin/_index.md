@@ -74,6 +74,8 @@ social:
 I am a PhD candidate in economics at Vanderbilt University. 
 I study inter-firm networks and their impact on economic growth through firm productivity and international trade. 
 
+I will join the Federal Reserve Bank of Boston as a Research Economist in July 2021, and the Entrepreneurial Management Unit at Harvard Business School as an Assistant Professor in July 2022. 
+
 [Job Market Paper](/files/Iyoha_JMP_WP_latest.pdf)    
 
 
