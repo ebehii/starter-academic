@@ -14,10 +14,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Vanderbilt University
-  url: "https://as.vanderbilt.edu/econ/"
-- name: Columnist | Stears Business
-  url: "https://www.stearsng.com/writer/ebehi-iyoha"
+- name: Federal Reserve Bank of Boston
+  url: "https://www.bostonfed.org/"
+- name: Harvard Business School
+  url: "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929"
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -70,17 +70,13 @@ social:
 # - Researchers
 #- Visitors
 ---
+Welcome to my website! I am an Economist at the Federal Reserve Bank of Boston and a Visiting Post-doctoral Fellow at Harvard Business School. I will join the Entrepreneurial Management Unit at HBS as an Assistant Professor in July 2022.
 
-I am a PhD candidate in economics at Vanderbilt University. 
 I study inter-firm networks and their impact on economic growth through firm productivity and international trade. 
-
-I will join the Federal Reserve Bank of Boston as a Research Economist in July 2021, and the Entrepreneurial Management Unit at Harvard Business School as an Assistant Professor in July 2022. 
 
 [Job Market Paper](/files/Iyoha_JMP_WP_latest.pdf)    
 
 
-
-       
 Fields of Specialization: Industrial Organization, International Trade, Applied Econometrics
 
 
