@@ -1,6 +1,7 @@
 ---
 title: "Estimating Productivity in the Presence of Spillovers:  
-Firm-level Evidence from the US Production Network [Job Market Paper]"
+Firm-level Evidence from the US Production Network"
+subtitle: "*Winner of the Young Economists' Essay Award at the 2021 Annual Conference of the European Association for Research in Industrial Economics (EARIE)*"
 authors:
 - admin
 date: "2020-10-09T00:00:00Z"
@@ -22,7 +23,10 @@ publication_short: "JMP"
 abstract: "This paper examines the extent to which efficiency gains diffuse over a network of firms. Empirical studies typically estimate firm-to-firm spillovers using productivity measured from estimated production functions. However, standard production function estimation methods implicitly rule out the interdependence of firms' outcomes and decisions through productivity spillovers. I show that ignoring network effects when estimating production functions biases productivity and spillovers in directions that cannot generally be predicted *a priori*. To address this limitation, I develop a framework to jointly estimate network effects and firm-level productivity. My approach can account for non-random buyer-supplier matching and network effects that vary by relationship direction and firm characteristics. Using this method, I characterize productivity spillovers over the US production network from 1977 to 2016 and find substantial heterogeneity by direction, industry, firm size and over time. My results suggest that the average firm in 1978 would be 16 percent more productive by 2016 due to spillovers. In addition, a 10 percent increase in the productivity of the most central firm in each year could result in up to a 2 percent rise in aggregate TFP through spillovers alone. These findings highlight the potential for industrial policy, even if narrowly targeted, to have broader ramifications for the economy as a whole."
 
 # Summary. An optional shortened abstract.
-summary: I document efficiency gains over the US production network from 1977-2016 using a novel procedure that jointly estimates productivity and spillovers. 
+summary: "*Winner of the Young Economists' Essay Award at the 2021 Annual Conference of the European Association for Research in Industrial Economics (EARIE)*  \
+
+
+I document efficiency gains over the US production network from 1977-2016 using a novel procedure that jointly estimates productivity and spillovers." 
 tags:
 - Working paper
 - Productivity
