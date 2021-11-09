@@ -2,7 +2,7 @@
 title: "Home-Country Effects of US Multinational Activity through Vertical and Horizontal Spillovers"
 authors:
 - admin
-date: "2020-10-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,14 +18,14 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper examines the role of multinationals in home-country productivity growth. A large body of work has examined the impact of multinational enterprises (MNEs) on domestic firms in foreign (host) countries through inward foreign direct investment (FDI). There is much less research on spillover effects from outward FDI on firms in the home countries of MNEs. However, policies promoting and subsidizing outward FDI have gained traction in developing countries as a means to potentially boost productivity growth. I evaluate this in the US context from 1996 to 2016 by estimating the impact of exposure to MNEs through horizontal and vertical linkages. Compared to existing work that relies on industry-level proxies of FDI and MNE exposure, I exploit firm-level variation in exposure to multinationals within the same product space and in buyer-supplier relationships. In addition, I distinguish between the endogenous network effect of exposure to a more productive firm, multinational or not, and the direct impact of being connected to an MNE. I find substantial direct spillovers from multinationals to their customers, indirect positive spillovers from multinationals to their suppliers only because multinationals are more efficient, and negative horizontal spillovers."
+abstract: "	This paper examines the role of multinationals in home-country productivity growth. A large body of work has examined the impact of multinational enterprises (MNEs) on domestic firms in foreign (host) countries through inward foreign direct investment (FDI). There is much less research on spillover effects from outward FDI on firms in the home countries of MNEs. However, policies promoting and subsidizing outward FDI have gained traction in developing countries as a means to potentially boost productivity growth. I evaluate this in the US context from 1989 to 2016 by estimating the impact of exposure to MNEs through horizontal and vertical linkages. Compared to existing work that relies on industry-level proxies of FDI and MNE exposure, I exploit firm-level variation in exposure to multinationals within the same product space and in buyer-supplier relationships. In addition, I distinguish between the endogenous network effect of exposure to a more productive firm, multinational or not, and the direct impact of being connected to an MNE. I find substantial direct spillovers from multinationals to their customers and competitors, and indirect positive spillovers from multinationals to their suppliers only because multinationals are more efficient."
 
 # Summary. An optional shortened abstract.
 summary: I estimate productivity spillovers from US multinationals to their domestic competitors, suppliers and customers. 
 
 tags:
 - Working paper
-- Exporters
+- Productivity 
 - Multinationals
 - Networks 
 
