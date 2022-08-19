@@ -70,12 +70,9 @@ social:
 # - Researchers
 #- Visitors
 ---
-Welcome to my website! I am an Economist at the Federal Reserve Bank of Boston and a Visiting Post-doctoral Fellow at Harvard Business School. I will join the Entrepreneurial Management Unit at HBS as an Assistant Professor in July 2022.
+Welcome to my website! I am an Assistant Professor in the Entrepreneurial Management Unit at Harvard Business School. My research interests lie at the intersection of industrial organization and international trade. Using a combination of structural and reduced-form methods, my work examines the economic significance of interfirm networks and how they impact firm performance through productivity and trade. 
 
-I study inter-firm networks and their impact on economic growth through firm productivity and international trade. 
-
-[Job Market Paper](/files/Iyoha_JMP_WP_latest.pdf)    
-
+I earned my PhD in Economics from Vanderbilt University in 2021 and worked as a Research Economist at the Federal Reserve Bank of Boston prior to joining HBS.
 
 Fields of Specialization: Industrial Organization, International Trade, Applied Econometrics
 
