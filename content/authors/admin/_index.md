@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist (Research)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Bank of Boston
-  url: "https://www.bostonfed.org/"
 - name: Harvard Business School
   url: "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322929"
 # Short bio (displayed in user profile at end of posts)
