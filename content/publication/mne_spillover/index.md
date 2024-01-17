@@ -2,7 +2,7 @@
 title: "Home-Country Productivity Spillovers from US Multinational Activity"
 authors:
 - admin
-date: "2021-11-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

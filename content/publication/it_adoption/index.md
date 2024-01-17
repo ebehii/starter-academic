@@ -1,9 +1,8 @@
 ---
-title: "Bank Lending and Productivity Growth"
+title: "IT Adoption in Production Networks"
 authors:
 - admin
-- "Benjamin Munyan"
-date: "2020-10-01"
+date: "2023-12-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +25,7 @@ summary:
 tags: 
 - Work in progress
 - Networks 
-- International Trade
+- Information Technology
 
 featured: true
 

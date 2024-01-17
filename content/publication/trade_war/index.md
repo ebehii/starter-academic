@@ -1,13 +1,13 @@
 ---
-title: "The Impact of the US-China Trade War on Latin America: Evidence from Importer-Exporter Linkages"
+title: "Third-country Effects of the US-China Trade War: Evidence from Importer-Exporter Linkages"
 authors:
 - admin
 - "Joel Rodrigue"
-date: "2020-10-01"
+date: "2024-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
